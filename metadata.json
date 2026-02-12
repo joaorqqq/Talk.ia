@@ -1,0 +1,8 @@
+{
+  "name": "Talk - Romance & AI Chat",
+  "description": "Uma plataforma de chat elegante com personagens IA, focada em imersão, romance e segurança avançada multimodal via ProteCha.bot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
